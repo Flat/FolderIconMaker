@@ -9,4 +9,4 @@ Written in Python
 
 Author:  [@Zaexu](http://www.twitter.com/zaexu), [Zaexu](http://github.com/Zaexu)
 
-Requires: [Python](http://www.python.org), [Pillow](https://github.com/python-imaging/Pillow)
+Requires: [Python](http://www.python.org), [Pillow](https://github.com/python-imaging/Pillow), [ImageMagick](http://www.imagemagick.org)(Required to be installed on system)
