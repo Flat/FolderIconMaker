@@ -1,0 +1,7 @@
+This script takes images put in the source folder and outputs them as .png to be used as folder icons in windows.
+It is a work in progress and will eventually support the creation of .ico files.
+Written in python
+
+Author: twitter@Zaexu Kitsune1911@github
+
+Requires: Python, PIL (Python Imaging Library)
