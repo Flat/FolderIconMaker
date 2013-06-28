@@ -4,4 +4,4 @@ Written in python
 
 Author: twitter@Zaexu Kitsune1911@github
 
-Requires: Python, PIL (Python Imaging Library)
+Requires: Python, Pillow
