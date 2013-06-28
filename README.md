@@ -7,6 +7,6 @@ These images can then be used as Folder icons in Windows Vista or newer.
 
 Written in Python
 
-Author:  [@Zaexu](http://www.twitter.com/zaexu) [Zaexu](http://github.com/Zaexu)
+Author:  [@Zaexu](http://www.twitter.com/zaexu), [Zaexu](http://github.com/Zaexu)
 
 Requires: [Python](http://www.python.org), [Pillow](https://github.com/python-imaging/Pillow)
