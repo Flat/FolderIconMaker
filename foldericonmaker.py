@@ -17,7 +17,7 @@ if not os.path.exists("source/"):
 	print "Source folder not found. Created new folder. Please add source images to the source folder"
 	os.mkdir("source/")
 	sys.exit(3)
-if not os.path.exists("temp/")"
+if not os.path.exists("temp/"):
 	os.mkdir("temp/")
 else:
 	#if directory exists remove leftovers
