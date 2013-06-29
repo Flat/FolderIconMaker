@@ -50,7 +50,7 @@ for filename in os.listdir('source'):
 print "Compositing complete! Files are now undergoing conversion to .ico\n"
 for tempFile in os.listdir('temp'):
 	call("convert" + " \"temp/" + tempFile + "\" \"output/" + tempFile.rsplit(".",1)[0] + '.ico\"', shell=True)
-	print filename + " Done!"
+	print tempFile + " Done!"
 print "Cleaning temp directory..."
 shutil.rmtree("temp/")
 print "Done!\n"
