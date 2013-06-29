@@ -5,7 +5,7 @@ import os
 import sys
 import shutil
 from PIL import ImageOps
-from subprocess import Call
+from subprocess import call
 
 #portrait dimensions default 160x228
 width = 160
